@@ -1,5 +1,5 @@
 # MACHONACHOCHEESE|HACKATON TRACK|PS2 #
-# Wellbeing Swipe
+# Flow Together
 Low-pressure wellbeing web app  
 Hackathon Track: Problem Statement 2
 
@@ -7,7 +7,7 @@ Hackathon Track: Problem Statement 2
 
 ## Overview
 
-Wellbeing Swipe is a low pressure wellbeing web application designed to help users take small, emotionally safe steps when they feel low energy, socially drained, or overwhelmed.
+Flow Together is a low pressure wellbeing web application designed to help users take small, emotionally safe steps when they feel low energy, socially drained, or overwhelmed.
 
 Instead of forcing deep reflection or conversation, the app uses a swipe based interface to gently suggest micro activities matched to a user’s current energy and social comfort level.
 
