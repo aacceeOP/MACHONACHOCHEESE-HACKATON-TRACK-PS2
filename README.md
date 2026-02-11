@@ -113,5 +113,15 @@ wellbeing-swipe-app/
 │
 └── README.md
 ````
+---
+
 
 ## Setup Instructions
+###Clone the Repository
+````
+git clone https://github.com/your-username/wellbeing-swipe.git
+cd wellbeing-swipe
+
+````
+
+
