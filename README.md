@@ -182,7 +182,7 @@ http://localhost:5174
 ---
 
 
-###### Side notes
+### Side notes
 - backend must be running for metrics to update
 - metrics reset when server restarts
 - app is minimal to reduce load
