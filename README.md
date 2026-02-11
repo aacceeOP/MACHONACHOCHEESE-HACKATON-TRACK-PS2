@@ -29,7 +29,7 @@ Privacy first design
 2) Framer Motion (animations)
 3) CSS (custom)
 
-###Backend
+### Backend
 #### 1) Node.js
 2) Express
 3) In memory data store (demo-friendly)
