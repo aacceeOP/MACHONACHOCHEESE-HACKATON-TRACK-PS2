@@ -134,7 +134,7 @@ npm install
 npm run dev
 ````
 
-#### The frontend will run on 
+#### The backend will run on 
 ````
 http://localhost:3001
 ````
@@ -154,6 +154,38 @@ http://localhost:5174
 ````
 
 ---
+
+
+### Usage Instructions 
+- open the frontend in your browser
+- complete the energy and social check in
+- swipe through activity suggestions
+- choose one to relfect on
+- view aggregated impact metrics
+
+--- 
+
+### Privacy and Ethics
+- No user accounts
+- No personal data stored
+- Reflections are anonymised and aggregared
+- Designed to **support**, not diagnose
+
+--- 
+
+### Sustainability and scalability
+- can integrate a database for long term storage
+- activities can be dynamically generated with AI
+- Metrics can inform community wellbeing trends
+- suitable for schools, workplaces or community programs
+
+---
+
+
+###### Side notes
+- backend must be running for metrics to update
+- metrics reset when server restarts
+- app is minimal to reduce load
 
 
 
