@@ -87,7 +87,7 @@ No personal data is stored.
 
 ## Project Structure
 
-```text
+```
 wellbeing-swipe-app/
 ├── frontend/
 │   ├── src/
@@ -117,11 +117,33 @@ wellbeing-swipe-app/
 
 
 ## Setup Instructions
-### Clone the Repository
+### 1) Clone the Repository
 ````
 git clone https://github.com/your-username/wellbeing-swipe.git
 cd wellbeing-swipe
 
 ````
+
+---
+
+### 2) Backend Setup
+
+````
+cd backend
+npm install
+npm run dev
+````
+
+###### The frontend will run on 
+````
+http://localhost:3001
+````
+
+
+
+
+
+
+
 
 
