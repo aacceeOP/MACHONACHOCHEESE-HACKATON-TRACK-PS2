@@ -117,7 +117,7 @@ wellbeing-swipe-app/
 
 
 ## Setup Instructions
-###Clone the Repository
+### Clone the Repository
 ````
 git clone https://github.com/your-username/wellbeing-swipe.git
 cd wellbeing-swipe
