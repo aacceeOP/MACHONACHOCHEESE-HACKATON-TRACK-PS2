@@ -1,4 +1,4 @@
-# MACHONACHOCHEESE|HACKATON TR$ACHL | PS2 #
+# MACHONACHOCHEESE|HACKATON TRACK|PS2 #
 # Wellbeing Swipe
 Low-pressure wellbeing web app  
 Hackathon Track: Problem Statement 2
@@ -138,6 +138,23 @@ npm run dev
 ````
 http://localhost:3001
 ````
+--- 
+
+### 3) Frontend Setup 
+
+````
+cd frontend
+npm install
+npm run dev
+````
+
+#### The frontend will run on 
+````
+http://localhost:5174
+````
+
+---
+
 
 
 
