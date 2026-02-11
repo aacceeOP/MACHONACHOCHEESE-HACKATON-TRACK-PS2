@@ -1,42 +1,93 @@
 # MACHONACHOCHEESE|HACKATON TR$ACHL | PS2 #
+# Wellbeing Swipe
+Low-pressure wellbeing web app  
+Hackathon Track: Problem Statement 2
 
-## Wellbeing swipe 
+---
 
-#### Wellbeing swipe is a loq-pressure wellbeing web application designed to help users take small emotionally safe steps when they feel low energy, socially drained, or overwhelmed.  
-#### instead of forcing deep reflection or conversation, the app uses a **swipe-based interface** to gently suggest activities matched to a user's current energy and social comfort level. 
+## 🌱 Overview
 
-## Some Key Features:
-#### **Energy based check ins** ( No clinical labels )
-Swipe to choose or skip activities with **zero pressure**
-**low erffort micro activities** ( solo and social ) 
-**Optional reflection** after action 
-Anonymous impact metrics dashboard
-Privacy first design
+Wellbeing Swipe is a low-pressure wellbeing web application designed to help users take small, emotionally safe steps when they feel low energy, socially drained, or overwhelmed.
 
-## How the app works
-#### 1) Check ins
-##### users indicate their energy levels and social comfort levels. Thisi avoids emotional labelling and reduces cognitive load
-#### 2) Swipe activities 
-#### Users are shown activities that match their check-ins. They can swipe right on activities that they are interested in and left on those that they are not interested in 
-### 3) Reflection (optional) 
-#### After completing an ativity, users can reflect briefly on how they feel. There are options for worse, same, a little bit better and much better
-### 4) Impact metrics
-#### Reflections are stored anonymously and displayed as total reflections, % feeling better and moos distribution. 
+Instead of forcing deep reflection or conversation, the app uses a swipe-based interface to gently suggest micro-activities matched to a user’s current energy and social comfort level.
 
-## Things we have used
-### Fronend
-#### 1) React (vite)
-2) Framer Motion (animations)
-3) CSS (custom)
+---
+
+## 💡 Why We Built This
+
+Many wellbeing apps:
+- Require emotional labelling
+- Demand long reflections
+- Create pressure to “feel better”
+
+Our approach is different:
+- No clinical labels  
+- No forced sharing  
+- No pressure to act or improve  
+
+Users stay in control at every step.
+
+---
+
+## ⚙️ How the App Works
+
+### 1️⃣ Energy-based Check-in  
+Users indicate:
+- Energy level  
+- Social comfort level  
+
+This avoids emotional labelling and reduces cognitive load.
+
+---
+
+### 2️⃣ Swipe Activities  
+Users are shown activities matched to their check-in.
+
+- 👉 Swipe right: interested  
+- 👈 Swipe left: skip  
+
+No penalties, no explanations needed.
+
+---
+
+### 3️⃣ Reflection (Optional)  
+After completing an activity, users can briefly reflect on how they feel:
+- Worse
+- Same
+- A bit better
+- Much better  
+
+Reflection is optional and lightweight.
+
+---
+
+### 4️⃣ Impact Metrics  
+Anonymous reflections are aggregated and displayed as:
+- Total reflections
+- % feeling better
+- Mood distribution  
+
+No personal data is stored.
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React (Vite)
+- Framer Motion (animations)
+- Custom CSS
 
 ### Backend
-#### 1) Node.js
-2) Express
-3) In memory data store (demo-friendly)
+- Node.js
+- Express
+- In-memory data store (demo-friendly)
 
+---
 
-## Project Structure
-#### 
+## 📁 Project Structure
+
+```text
 wellbeing-swipe-app/
 ├── frontend/
 │   ├── src/
@@ -51,11 +102,14 @@ wellbeing-swipe-app/
 │   │   │   └── api.js
 │   │   ├── App.jsx
 │   │   └── index.css
-│   └── package.json
+│   ├── package.json
+│   └── README.md
 │
 ├── backend/
 │   ├── index.js
 │   └── package.json
+│
+└── README.md
 │
 └── README.md
 
